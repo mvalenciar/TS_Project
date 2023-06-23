@@ -1,0 +1,27 @@
+{
+  "name": "ts_project",
+  "version": "1.0.0",
+  "description": "Practica curso fundamentos typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvalenciar/TS_Project.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "typescript"
+  ],
+  "author": "Milton Valencia R <miltonalonsovalenciarincon@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvalenciar/TS_Project/issues"
+  },
+  "homepage": "https://github.com/mvalenciar/TS_Project#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
