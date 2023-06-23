@@ -4,7 +4,8 @@
   "description": "Practica curso fundamentos typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "npx tsc src/*.ts --target es2022 --outDir dist"
   },
   "repository": {
     "type": "git",
