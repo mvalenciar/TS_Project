@@ -24,5 +24,8 @@
   "homepage": "https://github.com/mvalenciar/TS_Project#readme",
   "devDependencies": {
     "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
   }
 }
